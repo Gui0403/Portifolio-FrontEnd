@@ -1,0 +1,1 @@
+Meu portifólio para foi feito em linguagem HTML, CSS, JavaScript. Fiz ele como aprendizagem dos conceitos abrangidos. Também focado para mostrar minhas habilidades com destinos á recrutadores em geral.
