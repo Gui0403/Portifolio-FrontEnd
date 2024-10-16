@@ -98,7 +98,7 @@ ol {
         scale: 1.20;
 
         && li:hover {
-            color: #12d6ddaa;
+            font-weight: bold;
             font-size: 1.3rem;
         }
     }
