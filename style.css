@@ -27,7 +27,7 @@ header {
 
 main {
     display: flex;
-    height: 100dvh;
+    height: 100%;
     flex-direction: column;
     justify-content: center;
     align-items: center;
